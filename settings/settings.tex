@@ -1,0 +1,41 @@
+\documentclass[
+    12pt,
+    a4paper,
+]{report}
+\usepackage[ngerman]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[]{fancyhdr}
+
+\usepackage[dvipsnames]{xcolor}
+\usepackage{graphicx}
+\usepackage{esvect}
+\usepackage{epstopdf}
+\usepackage{tikz}
+\usepackage{pgfplots} % erstellen von Plots mit Latex
+%\pgfplotsset{compat=1.12}
+\pgfplotsset{compat=newest}
+\usetikzlibrary{external}
+\tikzexternalize[prefix=plots/]
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[R]{\includegraphics[height=0.5cm]{assets/rennteam_logo.eps}}
+\fancyhead[L]{KÜRZEL, SUBTEAM}
+\fancyhead[C]{\today}
+
+\setlength{\headheight}{19pt}
+\setlength{\textheight}{210mm}
+\setlength{\textwidth}{140mm}
+\setlength{\oddsidemargin}{9.6mm}
+\setlength{\evensidemargin}{9.6mm}
+\setlength{\footskip}{10mm}
+\setlength{\paperwidth}{210mm}
+\setlength{\paperheight}{297mm}
+
+\usepackage[T1]{fontenc}
+\usepackage{fourier}
+
+\rfoot{\thepage}
+
+\newlength{\itemizeskip}
+\setlength{\itemizeskip}{0.2em}
