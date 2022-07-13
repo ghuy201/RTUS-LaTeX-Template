@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1657716574 "c:/Users/Mike/Documents/F0711-17/RTUS LaTeX Template/rtus_latex_template.tex" "rtus_latex_template.pdf" "rtus_latex_template" 1657716575
+["pdflatex"] 1657726811 "c:/Users/Mike/Documents/F0711-17/RTUS LaTeX Template/rtus_latex_template.tex" "rtus_latex_template.pdf" "rtus_latex_template" 1657726813
   "C:/Users/Mike/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1657710518 273728 78cdfa29f414de51cd95a41f6e9afa40 ""
   "C:/Users/Mike/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1641254379 9769492 0769c18609f46d8fa9d0bdb1e20c5253 ""
   "C:/Users/Mike/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458477487 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -165,9 +165,9 @@
   "C:/Users/Mike/AppData/Local/Programs/MiKTeX/tex/latex/pgfplots/pgfplots.sty" 1621075461 4904 ee78b44e85d6fccf08cd99370557481e ""
   "C:/Users/Mike/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1636288472 56029 3f7889dab51d620aa43177c391b7b190 ""
   "assets/rennteam_logo.eps" 1657715471 1057958 25e8f3a5c26707816cd87b00694e743f ""
-  "c:/Users/Mike/Documents/F0711-17/RTUS LaTeX Template/rtus_latex_template.tex" 1657716573 139 58feb14c16c2fd0abb2723c1e11a430a ""
-  "rtus_latex_template.aux" 1657716575 132 063cd77255c8c60019cf8d1b2062afe8 "pdflatex"
-  "rtus_latex_template.tex" 1657716573 139 58feb14c16c2fd0abb2723c1e11a430a ""
+  "c:/Users/Mike/Documents/F0711-17/RTUS LaTeX Template/rtus_latex_template.tex" 1657726810 213 02b367b4d90dbb271e19eb1ac0d11b8b ""
+  "rtus_latex_template.aux" 1657726812 132 063cd77255c8c60019cf8d1b2062afe8 "pdflatex"
+  "rtus_latex_template.tex" 1657726810 213 02b367b4d90dbb271e19eb1ac0d11b8b ""
   "settings/settings.tex" 1657716564 981 f4dac6c30e39e643d1955546a94991c6 ""
   (generated)
   "rtus_latex_template.aux"
